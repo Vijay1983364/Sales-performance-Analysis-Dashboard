@@ -38,4 +38,23 @@ represent the clear majority of all orders.
 Raw Sales Data → Data Cleaning → Data Transformation → KPI Calculation → Data Analysis → Dashboard Creation → Testing → Business Insights → Decision Making
 
 ## Dashboard 
-![Uploading dashboard.png…]()
+<img width="1132" height="530" alt="dashboard" src="https://github.com/user-attachments/assets/4b7d89d8-aa66-453d-89e7-0131146e5592" />
+
+## Project Insights 
+
+Based on the Sales Performance Dashboard, the following key insights can be identified:
+
+- Strong overall sales performance: Total sales reached approximately ₹255.41 million, generating around ₹82.40 million in profit.
+- Healthy profitability: The overall profit margin is 32%, indicating that the business is generating a good return from its sales.
+- Target exceeded: Target achievement is approximately 101%, showing that the company has slightly surpassed its sales target.
+- Electronics is the leading category: Electronics generated the highest sales at approximately ₹156.78 million, making it the company's strongest product category.
+- Furniture is the second-largest contributor: Furniture generated approximately ₹84.66 million, while Accessories and Office Supplies contributed comparatively less.
+- Regional performance is relatively balanced: Central, East, North, South, and West regions each contribute significantly to overall sales, with Central and East among the stronger regions.
+- Retail Store is the strongest sales channel: Retail Store contributes approximately ₹27.59 million, followed by Online at ₹29.68 million and Distributor at ₹25.13 million. (The dashboard values indicate Online is actually the highest channel.)
+- Salesperson performance varies: The Top 10 Salespersons chart shows noticeable differences in individual sales contributions, helping management identify high performers.
+- Order completion is high: Out of 5,000 orders, approximately 4,397 are completed, while cancelled and returned orders represent a much smaller proportion.
+- Monthly sales fluctuate: Sales vary throughout the year, with noticeable peaks around the middle of the year, indicating possible seasonal or campaign-driven changes.
+
+## Conclusion
+
+The Sales Performance Dashboard provides a centralized and interactive view of the company's sales and profitability. The analysis indicates that the business is performing well overall, with ₹255.41M in sales, ₹82.40M in profit, a 32% profit margin, and 101% target achievement.
