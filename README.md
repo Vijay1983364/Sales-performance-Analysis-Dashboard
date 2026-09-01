@@ -38,3 +38,4 @@ represent the clear majority of all orders.
 Raw Sales Data → Data Cleaning → Data Transformation → KPI Calculation → Data Analysis → Dashboard Creation → Testing → Business Insights → Decision Making
 
 ## Dashboard 
+![Uploading dashboard.png…]()
