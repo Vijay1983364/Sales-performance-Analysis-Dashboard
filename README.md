@@ -1,2 +1,3 @@
-# Sales-performance-Analysis-Dashboard
-i have developed an interactive Sales Performance Dashboard built in Microsoft Excel to analyze and visualize key business performance metrics. The dashboard provides a comprehensive view of sales, profits, orders, product categories, regions, sales channels, and salesperson performance.
+# Sales Performance Analysis(Interactive Dashboard Using ms-Excel)
+## Objective of the Project :
+The project is designed to transform raw sales data into an interactive dashboard that helps management monitor performance, identify trends, and make informed business decisions.
